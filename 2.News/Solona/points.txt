@@ -1,3 +1,24 @@
 https://www.linkedin.com/pulse/rust-crypto-solana-future-efficient-blockchain-emmanuel-charles-lczcf/?trackingId=8y4t0RoaRLSz9X6NpE6nFg%3D%3D
 
-Rust crypto brings a powerful and efficient toolkit
+1- Rust crypto brings a powerful and efficient toolkit
+2- Bitcoin:
+
+    Primarily developed in C++.
+
+Ethereum:
+
+    Smart contracts written in Solidity, with some components in Vyper and other parts of the ecosystem in Python, Go, and JavaScript.
+
+Hyperledger Fabric:
+
+    Developed using Go and Java.
+
+Solana:
+
+    ===> Uses Rust for its high-performance blockchain.
+
+Polkadot:
+
+    Primarily developed in Rust.
+
+3-
